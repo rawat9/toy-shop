@@ -1,0 +1,9 @@
+Installation Required:
+
+note- install python library - Pillow (for images)
+
+
+Feature 1:
+Admin Username: admin
+Admin Password: python
+
