@@ -1,4 +1,8 @@
-# tkinter-gui
+# Toy Shop
+
+- Python
+- GUI - Tkinter
+- Database - SQLite3
 
 ## Home
 <img width="1348" alt="Home" src="https://user-images.githubusercontent.com/64035803/108894738-91097a00-760a-11eb-8ae4-21d44e1a8314.png">
